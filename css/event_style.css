@@ -563,6 +563,7 @@ body {
 .b_title{
     font-size: 25px;
     font-weight: 700;
+    cursor: pointer;
 }
 
 .b_date{
